@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
 
 
+
 body {
   background-color: #1f1e33;
 }
@@ -43,6 +44,7 @@ a {
 a:hover {
   color: #e4c7c7;
   text-decoration: underline;
+  cursor: pointer;
 }
 
 div {
