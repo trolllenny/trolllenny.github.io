@@ -1,9 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
 
-
-
 body {
-  background-color: #1f1e33;
+    background-color: #1f1e33;
 }
 
 h1,
@@ -11,63 +9,63 @@ h2,
 p,
 a,
 div {
-  font-family: "Open Sans", sans-serif;
+    font-family: "Open Sans", sans-serif;
 }
 
 h1,
 h2,
 p,
 div {
-  text-align: center;
+    text-align: center;
 }
 
 h1 {
-  color: mistyrose;
-  font-size: 40px;
+    color: mistyrose;
+    font-size: 40px;
 }
 
 h2 {
-  color: rgb(247, 209, 204);
-  font-size: 35px;
+    color: rgb(247, 209, 204);
+    font-size: 35px;
 }
 
 p {
-  color: rgb(211, 188, 244);
-  font-size: 17px;
+    color: rgb(211, 188, 244);
+    font-size: 17px;
 }
 
 a {
-  color: rgb(226, 249, 235);
-  text-decoration: none;
+    color: rgb(226, 249, 235);
+    text-decoration: none;
 }
 
 a:hover {
-  color: #e4c7c7;
-  text-decoration: underline;
-  cursor: pointer;
+    color: #e4c7c7;
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 div {
-  color: rgb(226, 249, 235);
+    color: rgb(226, 249, 235);
 }
 
 footer {
-  display: flex;
-  justify-content: center;
-  position: fixed;
+    display: flex;
+    justify-content: center;
+    position: fixed;
 
-  bottom: 0;
-  left: 0;
+    bottom: 0;
+    left: 0;
 
-  width: 100%;
+    width: 100%;
 
-  padding-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 footer > * {
-  margin-right: 10px;
+    margin-right: 10px;
 }
 
 footer:last-child {
-  margin-right: 0;
+    margin-right: 0;
 }
